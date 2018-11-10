@@ -1,10 +1,16 @@
-﻿[![sites](docs/litelife.png)](http://www.litelife.cc)
+﻿# litelife:[PCentre](https://github.com/litfe/PCentre) 
+ 
+家庭计算应用
 
-# PCenter
+[![sites](litelife/litelife.png)](http://www.litelife.cc)
+
+#### 更多关于：[litelife](https://github.com/litfe/litelife) 可访问 www.litelife.cc
+
+---
 
 ### 简介
 
-
+运行在PC设备上的应用程式，用于处理网络侧和交互任务
 
 ---
 
@@ -14,7 +20,4 @@
 
 ---
 
-### 说明
-
-2018-10-17: 创建工程仓库
-
+##  www.litelife.cc   |   qitas@qitas.cn
