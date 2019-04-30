@@ -1,23 +1,16 @@
-﻿# litelife:[PCentre](https://github.com/litfe/PCentre) 
- 
-家庭计算应用
+﻿# [PCenter](https://github.com/Qful/PCenter) 
+[![sites](Qful/qitas.png)](http://www.Qful.net)
+## [Q简介](https://github.com/Qful/PCenter) 
 
-[![sites](litelife/litelife.png)](http://www.litelife.cc)
-
-#### 更多关于：[litelife](https://github.com/litfe/litelife) 可访问 www.litelife.cc
-
----
-
-### 简介
-
-运行在PC设备上的应用程式，用于处理网络侧和交互任务
-
----
-
-### 组成
+固定计算终端，个人PC设备总成，包括传统的计算设备和扩展的多用部件，全副武装的台式计算设备
 
 
 
----
+### [Q资源](https://github.com/Qful/PCenter)
 
-##  www.litelife.cc   |   qitas@qitas.cn
+- [Q系统](https://github.com/OS-Q)
+- [Q硬件](https://github.com/sochub)
+- [Q智慧](https://github.com/tfzoo)
+- [Q品质](https://github.com/qitas)
+
+### www.Qful.net
