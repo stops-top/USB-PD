@@ -1,6 +1,8 @@
-﻿# [PCenter](https://github.com/Qful/PCenter) 
+﻿# [PCenter](https://github.com/Qful/PCenter)
+
 [![sites](Qful/qitas.png)](http://www.Qful.net)
-### [PCenter简介](https://github.com/Qful/PCenter) 
+
+## [PCenter简介](https://github.com/Qful/PCenter)
 
 固定计算终端，用于级联计算板卡及各种外围辅助设备，完成整机固定装置的使用，目标用途是个人PC电脑和服务器设施，终端本身不具有计算功能，只是作为主板集成各种计算装置，完成统一的输入输出控制。
 
