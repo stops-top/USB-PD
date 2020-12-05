@@ -1,26 +1,12 @@
-﻿# [PCenter](https://github.com/Qful/PCenter)
+﻿# [PD](https://github.com/Qful/PD)
 
-[![sites](Qful/qitas.png)](http://www.Qful.net)
+[![sites](http://182.61.61.133/link/resources/Qful.png)](http://www.Qful.net)
+## [项目简介](https://github.com/Qful/PD)
 
-## [PCenter简介](https://github.com/Qful/PCenter)
+[PD](https://github.com/Qful/PD)(PowerDelivery) 充电协议是USB-IF组织公布的功率传输协议，它可以使目前默认最大功率5V/2A的type-c接口提高到100W，同时谷歌宣布Android7.0以上的手机搭载的快充协议必须支持PD协议。
 
-固定计算终端，用于级联计算板卡及各种外围辅助设备，完成整机固定装置的使用，目标用途是个人PC电脑和服务器设施，终端本身不具有计算功能，只是作为主板集成各种计算装置，完成统一的输入输出控制。
+传统的Micro USB 2A电流上限意味着无法再通过提高电流实现更高功率传输。USB-PD在谷歌的推动下已经收编了高通的QC快充协议。
 
-与[PCenter](https://github.com/Qful/PCenter) 固定计算终端设备相似的计算终端是[PCentre](https://github.com/Qful/PCentre) 移动计算终端，两者关系密切，可拆解使用。
+USB-PD关注的是两个或者多个设备，甚至是基于USB接口的智能电网的电能传输过程，电能传输可以是双方向的，甚至是组网的，可以具备系统级供电策略。
 
-与[PCenter](https://github.com/Qful/PCenter) 固定计算终端设备相似的控制终端是[PContor](https://github.com/Qful/PContor) 固定控制终端，后者拥有更多丰富的IO用于驱动控制设备。
-
-### [工程目录](https://github.com/Qful)
-
-- [文档](docs/)
-- [资源](src/)
-- [工程](project/)
-
-### [Q资源](https://github.com/Qful/PCenter)
-
-- [Q系统](https://github.com/OS-Q)
-- [Q硬件](https://github.com/sochub)
-- [Q智慧](https://github.com/tfzoo)
-- [Q品质](https://github.com/qitas)
-
-### www.Qful.net
+USB-PD的通信是将协议层的消息调制成24MHZ的FSK信号并耦合到VBUS上或者从VBUS上获得FSK信号来实现手机和充电器通信的过程。
